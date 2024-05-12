@@ -1,0 +1,11 @@
+.cart{
+    border: 2px solid black;
+    border-radius: 10px;
+    height: fit-content;
+    width: fit-content;
+    
+}
+.fa-shopping-cart{
+    margin: 10px;
+    padding: 8px;
+}
